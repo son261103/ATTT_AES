@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DATA\\DATA_Visual_Studio\\DATA_1\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8085374-A0E3-475C-86A7-05ADD7016B9A}|An _ toan_thong_tin\\An _ toan_thong_tin.vcxproj|D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8085374-A0E3-475C-86A7-05ADD7016B9A}|An _ toan_thong_tin\\An _ toan_thong_tin.vcxproj|solutionrelative:An _ toan_thong_tin\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8085374-A0E3-475C-86A7-05ADD7016B9A}|An _ toan_thong_tin\\An _ toan_thong_tin.vcxproj|D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\decrypted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E8085374-A0E3-475C-86A7-05ADD7016B9A}|An _ toan_thong_tin\\An _ toan_thong_tin.vcxproj|solutionrelative:An _ toan_thong_tin\\decrypted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8085374-A0E3-475C-86A7-05ADD7016B9A}|An _ toan_thong_tin\\An _ toan_thong_tin.vcxproj|D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\encrypted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E8085374-A0E3-475C-86A7-05ADD7016B9A}|An _ toan_thong_tin\\An _ toan_thong_tin.vcxproj|solutionrelative:An _ toan_thong_tin\\encrypted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8085374-A0E3-475C-86A7-05ADD7016B9A}|An _ toan_thong_tin\\An _ toan_thong_tin.vcxproj|D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E8085374-A0E3-475C-86A7-05ADD7016B9A}|An _ toan_thong_tin\\An _ toan_thong_tin.vcxproj|solutionrelative:An _ toan_thong_tin\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8085374-A0E3-475C-86A7-05ADD7016B9A}|An _ toan_thong_tin\\An _ toan_thong_tin.vcxproj|D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\key.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E8085374-A0E3-475C-86A7-05ADD7016B9A}|An _ toan_thong_tin\\An _ toan_thong_tin.vcxproj|solutionrelative:An _ toan_thong_tin\\key.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "D:\\DATA\\DATA_Visual_Studio\\DATA_1\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\DATA\\DATA_Visual_Studio\\DATA_1\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "D:\\DATA\\DATA_Visual_Studio\\DATA_1\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\DATA\\DATA_Visual_Studio\\DATA_1\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAASwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T01:47:03.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "key.txt",
+              "DocumentMoniker": "D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\key.txt",
+              "RelativeDocumentMoniker": "An _ toan_thong_tin\\key.txt",
+              "ToolTip": "D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\key.txt",
+              "RelativeToolTip": "An _ toan_thong_tin\\key.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-15T16:07:11.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "decrypted.txt",
+              "DocumentMoniker": "D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\decrypted.txt",
+              "RelativeDocumentMoniker": "An _ toan_thong_tin\\decrypted.txt",
+              "ToolTip": "D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\decrypted.txt",
+              "RelativeToolTip": "An _ toan_thong_tin\\decrypted.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-15T15:41:09.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "encrypted.txt",
+              "DocumentMoniker": "D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\encrypted.txt",
+              "RelativeDocumentMoniker": "An _ toan_thong_tin\\encrypted.txt",
+              "ToolTip": "D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\encrypted.txt",
+              "RelativeToolTip": "An _ toan_thong_tin\\encrypted.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-15T15:40:52.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "input.txt",
+              "DocumentMoniker": "D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\input.txt",
+              "RelativeDocumentMoniker": "An _ toan_thong_tin\\input.txt",
+              "ToolTip": "D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\input.txt",
+              "RelativeToolTip": "An _ toan_thong_tin\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-15T15:39:29.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\Source.cpp",
+              "RelativeDocumentMoniker": "An _ toan_thong_tin\\Source.cpp",
+              "ToolTip": "D:\\Do_Hoa_May_Tinh\\Code_OpenGL\\An _ toan_thong_tin\\An _ toan_thong_tin\\Source.cpp",
+              "RelativeToolTip": "An _ toan_thong_tin\\Source.cpp",
+              "ViewState": "AQIAAFYBAAAAAAAAAAAAAGMBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T15:16:26.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
